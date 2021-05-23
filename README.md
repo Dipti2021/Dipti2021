@@ -10,22 +10,22 @@
  My name is Dipti and I welcome you to my Github page! I am a Full Stack Web Developer and an Engineer with a background in the education sector and a curious learner for life. I has been learning various coding and Object Orienting languages like JavaScript, CSS3, HTML5, C++ Python to name a few. She has created some front end and back end applications which are based on RESTful API's as well.I am also creating projects using the My SQL Database. 
 
 # My Current stats are as shown
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipti2021)](https://github.com/Dipti2021/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipti2021&show_icons=true)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipti2021&show_icons=true&theme=radical)
 
 
 
-<!--
-**Dipti2021/Dipti2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Actual text -->
 
-Here are some ideas to get you started:
+You can find me  on [![LinkedIn][3.2]][3].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Icons -->
+
+
+[2.2]: https://raw.githubusercontent.com/Dipti2021/Dipti2021/main/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/dipti-r-868b9b34/
+
+
