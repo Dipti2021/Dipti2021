@@ -6,7 +6,7 @@
 ![Licence:SQL](https://img.shields.io/badge/AboutMe-Introduction-green.svg)
 
 
-![gif1](https://media.giphy.com/media/dVuH1AcZMlOWMnzTAB/giphy.gif) ![gif2](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
+![gif1](https://media.giphy.com/media/dVuH1AcZMlOWMnzTAB/giphy.gif) 
 
 __Visitor Count__
 ![Visitor Count](https://profile-counter.glitch.me/Dipti2021/count.svg)  
@@ -40,6 +40,9 @@ __Visitor Count__
 
 # You can follow me here as well
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dipti-r-868b9b34/)
+
+
+![gif2](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
 
 
 
