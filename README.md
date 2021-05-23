@@ -1,5 +1,5 @@
  
- ![gif3](https://media.giphy.com/media/26BRqMxBADwpK2a6Q/giphy.gif)
+ ![gif3](https://media.giphy.com/media/26BRqMxBADwpK2a6Q/giphy.gif" width="400" height="790")
 
 ![License: Dipti](https://img.shields.io/badge/Coder-Dipti'sREADME-yellow.svg)
 ![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
