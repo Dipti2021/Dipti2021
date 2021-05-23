@@ -1,8 +1,9 @@
- # Hello, folks! <img src="https://raw.githubusercontent.com/Dipti2021/Dipti2021/main/wave.gif" width="30px">
+ ### Hello, folks! <img src="https://raw.githubusercontent.com/Dipti2021/Dipti2021/main/wave.gif" width="30px">
 
 ![License: Dipti](https://img.shields.io/badge/Coder-Dipti'sREADME-yellow.svg)
 ![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
 ![Licence:SQL](https://img.shields.io/badge/AboutMe-Introduction-green.svg)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dipti-r-868b9b34/)
 
 ![gif1](https://media.giphy.com/media/dVuH1AcZMlOWMnzTAB/giphy.gif)
 
@@ -15,17 +16,5 @@
 
 
 
-<!-- Actual text -->
-
-You can find me  on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-
-[2.2]: https://raw.githubusercontent.com/Dipti2021/Dipti2021/main/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/dipti-r-868b9b34/
 
 
