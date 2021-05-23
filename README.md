@@ -7,6 +7,8 @@
 
 
 ![gif1](https://media.giphy.com/media/dVuH1AcZMlOWMnzTAB/giphy.gif)
+
+__Visitor Count__
 ![Visitor Count](https://profile-counter.glitch.me/Dipti2021/count.svg)
 
 
