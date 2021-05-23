@@ -1,5 +1,5 @@
- # Hello, folks!
-![gif3]("https://tenor.com/btq1a.gif")
+ 
+  ![gif3]https://media.giphy.com/media/26BRqMxBADwpK2a6Q/giphy.gif)
 
 ![License: Dipti](https://img.shields.io/badge/Coder-Dipti'sREADME-yellow.svg)
 ![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
@@ -9,7 +9,7 @@
 ![gif1](https://media.giphy.com/media/dVuH1AcZMlOWMnzTAB/giphy.gif)
 
 
- My name is Dipti and I welcome you to my Github page! I am a Full Stack Web Developer and an Engineer with a background in the education sector and a curious learner for life. I has been learning various coding and Object Orienting languages like JavaScript, CSS3, HTML5, C++ Python to name a few. She has created some front end and back end applications which are based on RESTful API's as well.I am also creating projects using the My SQL Database. 
+ Hello everyone! My name is Dipti and I welcome you to my Github page! I am a Full Stack Web Developer and an Engineer with a background in the education sector and a curious learner for life. I has been learning various coding and Object Orienting languages like JavaScript, CSS3, HTML5, C++ Python to name a few. She has created some front end and back end applications which are based on RESTful API's as well.I am also creating projects using the My SQL Database. 
 
 # My Current stats are as shown
 
@@ -35,7 +35,7 @@
 ![My GitHub stats](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-# You can follow me on 
+# You can follow me here as well
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dipti-r-868b9b34/)
 
 
