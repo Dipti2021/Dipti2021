@@ -11,6 +11,8 @@
 
 # My Current stats are as shown
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipti2021)](https://github.com/Dipti2021/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dipti2021&show_icons=true)
+
 
 
 <!--
