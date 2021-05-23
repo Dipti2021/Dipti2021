@@ -1,4 +1,4 @@
- # Hello, folks! ![gif3]("https://raw.githubusercontent.com/Dipti2021/Dipti2021/main/wave.gif" width="30px")
+ # Hello, folks! ![gif3]("https://tenor.com/btq1a.gif")
 
 ![License: Dipti](https://img.shields.io/badge/Coder-Dipti'sREADME-yellow.svg)
 ![License: MIT v3](https://img.shields.io/badge/Developer-FullStack-red.svg)
