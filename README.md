@@ -42,7 +42,9 @@ __Visitor Count__
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dipti-r-868b9b34/)
 
 
-![gif2](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
+
+
+   ![gif2](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
 
 
 
