@@ -12,7 +12,7 @@ __Visitor Count__
 ![Visitor Count](https://profile-counter.glitch.me/Dipti2021/count.svg)  
 
 
- Hello everyone! My name is Dipti and I welcome you to my Github page! I am a Full Stack Web Developer and an Engineer with a background in the education sector and a curious learner for life. I has been learning various coding and Object Orienting languages like JavaScript, CSS3, HTML5, C++ Python to name a few. I have created some front end and back end applications which are based on RESTful API's as well.I am also creating projects using the My SQL Database. 
+ Hello everyone! My name is Dipti and I welcome you to my Github page! I am an Instructor, Full Stack Web Developer and an Engineer with a background in the education sector and a curious learner for life. I have been learning various coding and Object Orienting languages like JavaScript, CSS3, HTML5, C++ Python to name a few. I have created some front end, back end and full stack applications which are based on RESTful API's as well.I am also creating projects using the My SQL and Mongo Database. 
  
  __I am currently working on : Google Clone__
 
