@@ -12,9 +12,9 @@ __Visitor Count__
 ![Visitor Count](https://profile-counter.glitch.me/Dipti2021/count.svg)  
 
 
- Hello everyone! My name is Dipti and I welcome you to my Github page! I am an Instructor, Full Stack Web Developer and an Engineer with a background in the education sector and a curious learner for life. I have been learning various coding and Object Orienting languages like JavaScript, CSS3, HTML5, C++ Python to name a few. I have created some front end, back end and full stack applications which are based on RESTful API's as well.I am also creating projects using the My SQL and Mongo Database. 
+Greetings, all! I'm Dipti, and I'm delighted to invite you to explore my GitHub repository. As an educator, full-stack web developer, and engineer, I bring a wealth of knowledge from the education sector to my coding journey. My passion for learning knows no bounds, and I've dived into a diverse array of programming languages, including JavaScript, CSS3, HTML5, C++, and Python, among others. Along the way, I've crafted an assortment of front-end, back-end, and full-stack applications, leveraging RESTful APIs. Additionally, I'm actively engaged in projects utilizing MySQL and MongoDB databases to further expand my skill set. 
  
- __I am currently working on : Google Clone__
+ __I am currently working on : Data Science Projects__
 
 # My Current stats are as shown
 
