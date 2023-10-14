@@ -38,7 +38,7 @@ Greetings, all! I'm Dipti, and I'm delighted to invite you to explore my GitHub 
 # IDE's  and Other Ecosystems Known
 ![My GitHub stats](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![My GitHub stats](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![My GitHub stats](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=ipython&logoColor=white)
+![My GitHub stats](https://img.shields.io/badge/IPython-0769AD?style=for-the-badge&logo=ipython&logoColor=white)
 
 
 # You can follow me here as well
